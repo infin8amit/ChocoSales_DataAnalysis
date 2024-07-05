@@ -109,9 +109,6 @@ Identified products to discontinue based on:
 - Low profit margins
 - Negative growth trends
 
-## Methods
-
-Detailed explanation of methods used:
 
 ### Formulas and Functions
 
@@ -132,11 +129,6 @@ Detailed explanation of methods used:
 
 - Applied conditional formatting to highlight key insights.
 - Used color scales, data bars, and icon sets to visualize data trends and outliers.
-
-### Charts and Graphs
-
-- Created various charts (bar, line, pie) to visualize data insights.
-- Used dynamic charts linked with slicers for interactive dashboards.
 
 ## Conclusion
 

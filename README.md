@@ -142,10 +142,4 @@ Identified products to discontinue based on a comprehensive analysis considering
 
 The decision to discontinue a product was not made based on a single parameter but rather on a holistic view of all these aspects to ensure an informed and strategic approach.
 
-## Contact
 
-For any questions or further information, please contact:
-
-- Name: [Amit Verma]
-- Email: [amitv.mp18@nsut.ac.in]
-- LinkedIn: [https://www.linkedin.com/in/infiniteamit/]
